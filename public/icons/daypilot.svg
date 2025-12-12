@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <!-- DayPilot Icons: https//icons.daypilot.org/ -->
+
+    <symbol id="chevron-down-2" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="4 6 12 18 20 6"/>
+        </g>
+    </symbol>
+    <symbol id="chevron-down-4" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="4 6 12 18 20 6"/>
+        </g>
+    </symbol>
+
+    <symbol id="chevron-left-2" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 4 6 12 18 20"/>
+        </g>
+    </symbol>
+    <symbol id="chevron-left-4" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="18 4 6 12 18 20"/>
+        </g>
+    </symbol>
+
+    <symbol id="chevron-right-2" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="6 4 18 12 6 20"/>
+        </g>
+    </symbol>
+    <symbol id="chevron-right-4" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="6 4 18 12 6 20"/>
+        </g>
+    </symbol>
+
+    <symbol id="chevron-up-2" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="4 18 12 6 20 18"/>
+        </g>
+    </symbol>
+    <symbol id="chevron-up-4" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="4 18 12 6 20 18"/>
+        </g>
+    </symbol>
+
+    <symbol id="hamburger-menu" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <line x1="5" y1="7"  x2="19" y2="7"/>
+            <line x1="5" y1="12" x2="19" y2="12"/>
+            <line x1="5" y1="17" x2="19" y2="17"/>
+        </g>
+    </symbol>
+
+    <symbol id="minus-2" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <line x1="5" y1="12" x2="19" y2="12"/>
+        </g>
+    </symbol>
+    <symbol id="minus-4" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round">
+            <line x1="5" y1="12" x2="19" y2="12"/>
+        </g>
+    </symbol>
+
+    <symbol id="minichevron-down-2" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="6 8 12 16 18 8"/>
+        </g>
+    </symbol>
+    <symbol id="minichevron-down-4" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="6 8 12 16 18 8"/>
+        </g>
+    </symbol>
+
+    <symbol id="minichevron-left-2" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="16 6 8 12 16 18"/>
+        </g>
+    </symbol>
+    <symbol id="minichevron-left-4" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="16 6 8 12 16 18"/>
+        </g>
+    </symbol>
+
+    <symbol id="minichevron-right-2" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="8 6 16 12 8 18"/>
+        </g>
+    </symbol>
+    <symbol id="minichevron-right-4" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="8 6 16 12 8 18"/>
+        </g>
+    </symbol>
+
+    <symbol id="minichevron-up-2" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="6 16 12 8 18 16"/>
+        </g>
+    </symbol>
+    <symbol id="minichevron-up-4" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="6 16 12 8 18 16"/>
+        </g>
+    </symbol>
+
+    <symbol id="move-horizontal" viewBox="0 0 24 12">
+        <g fill="currentColor" stroke="none">
+            <circle cx="4"  cy="3" r="1"/><circle cx="8"  cy="3" r="1"/><circle cx="12" cy="3" r="1"/><circle cx="16" cy="3" r="1"/><circle cx="20" cy="3" r="1"/>
+            <circle cx="4"  cy="6" r="1"/><circle cx="8"  cy="6" r="1"/><circle cx="12" cy="6" r="1"/><circle cx="16" cy="6" r="1"/><circle cx="20" cy="6" r="1"/>
+            <circle cx="4"  cy="9" r="1"/><circle cx="8"  cy="9" r="1"/><circle cx="12" cy="9" r="1"/><circle cx="16" cy="9" r="1"/><circle cx="20" cy="9" r="1"/>
+        </g>
+    </symbol>
+
+    <symbol id="move-vertical" viewBox="0 0 12 24">
+        <g fill="currentColor" stroke="none">
+            <circle cx="3" cy="4"  r="1"/><circle cx="6" cy="4"  r="1"/><circle cx="9" cy="4"  r="1"/>
+            <circle cx="3" cy="8" r="1"/><circle cx="6" cy="8" r="1"/><circle cx="9" cy="8" r="1"/>
+            <circle cx="3" cy="12" r="1"/><circle cx="6" cy="12" r="1"/><circle cx="9" cy="12" r="1"/>
+            <circle cx="3" cy="16" r="1"/><circle cx="6" cy="16" r="1"/><circle cx="9" cy="16" r="1"/>
+            <circle cx="3" cy="20" r="1"/><circle cx="6" cy="20" r="1"/><circle cx="9" cy="20" r="1"/>
+        </g>
+    </symbol>
+
+    <symbol id="plus-2" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <line x1="5" y1="12" x2="19" y2="12"/>
+            <line x1="12" y1="5" x2="12" y2="19"/>
+        </g>
+    </symbol>
+    <symbol id="plus-4" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round">
+            <line x1="5" y1="12" x2="19" y2="12"/>
+            <line x1="12" y1="5" x2="12" y2="19"/>
+        </g>
+    </symbol>
+
+    <symbol id="resize-bottom" viewBox="0 0 24 12">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <line x1="4" y1="8" x2="20" y2="8"/>
+            <line x1="7" y1="5" x2="17" y2="5"/>
+        </g>
+    </symbol>
+    <symbol id="resize-left" viewBox="0 0 12 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <line x1="4" y1="4"  x2="4"  y2="20"/>
+            <line x1="7" y1="7"  x2="7"  y2="17"/>
+        </g>
+    </symbol>
+    <symbol id="resize-right" viewBox="0 0 12 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <line x1="8" y1="4"  x2="8"  y2="20"/>
+            <line x1="5" y1="7"  x2="5"  y2="17"/>
+        </g>
+    </symbol>
+    <symbol id="resize-top" viewBox="0 0 24 12">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <line x1="4" y1="4" x2="20" y2="4"/>
+            <line x1="7" y1="7" x2="17" y2="7"/>
+        </g>
+    </symbol>
+
+    <symbol id="x-2" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <line x1="4.5" y1="4.5" x2="19.5" y2="19.5"/>
+            <line x1="19.5" y1="4.5" x2="4.5"  y2="19.5"/>
+        </g>
+    </symbol>
+    <symbol id="x-4" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round">
+            <line x1="4.5" y1="4.5" x2="19.5" y2="19.5"/>
+            <line x1="19.5" y1="4.5" x2="4.5"  y2="19.5"/>
+        </g>
+    </symbol>
+    <symbol id="x-box" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <rect x="3" y="3" width="18" height="18"/>
+            <line x1="7" y1="7" x2="17" y2="17"/>
+            <line x1="17" y1="7" x2="7"  y2="17"/>
+        </g>
+    </symbol>
+
+    <symbol id="checkmark-2" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="20 6 9 17 4 12"/>
+        </g>
+    </symbol>
+    <symbol id="checkmark-4" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="20 6 9 17 4 12"/>
+        </g>
+    </symbol>
+
+    <symbol id="threedots-v" viewBox="0 0 24 24">
+        <g fill="currentColor" stroke="none">
+            <circle cx="12" cy="5"  r="2"/>
+            <circle cx="12" cy="12" r="2"/>
+            <circle cx="12" cy="19" r="2"/>
+        </g>
+    </symbol>
+
+    <symbol id="threedots-h" viewBox="0 0 24 24">
+        <g fill="currentColor" stroke="none">
+            <circle cx="5"  cy="12" r="2"/>
+            <circle cx="12" cy="12" r="2"/>
+            <circle cx="19" cy="12" r="2"/>
+        </g>
+    </symbol>
+
+    <symbol id="edit" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M3.5 16.5L17.5 2.5l4 4L7.5 20.5H3.5z"/>
+            <line x1="14.5" y1="5.5" x2="18.5" y2="9.5"/>
+            <line x1="4.5"  y1="15.5" x2="8.5"  y2="19.5"/>
+        </g>
+    </symbol>
+
+    <symbol id="calendar" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+            <line x1="8"  y1="2" x2="8"  y2="6"/>
+            <line x1="16" y1="2" x2="16" y2="6"/>
+            <line x1="3"  y1="10" x2="21" y2="10"/>
+        </g>
+        <g fill="currentColor" stroke="none">
+            <circle cx="7.5"  cy="14.5" r="1.4"/>
+            <circle cx="12"   cy="14.5" r="1.4"/>
+            <circle cx="16.5" cy="14.5" r="1.4"/>
+            <circle cx="7.5"  cy="18"   r="1.4"/>
+            <circle cx="12"   cy="18"   r="1.4"/>
+            <circle cx="16.5" cy="18"   r="1.4"/>
+        </g>
+    </symbol>
+
+    <symbol id="cut" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="7" cy="7" r="2"/>
+            <circle cx="7" cy="17" r="2"/>
+            <line x1="8.5" y1="8.5" x2="12" y2="12"/>
+            <line x1="8.5" y1="15.5" x2="12" y2="12"/>
+            <circle cx="12" cy="12" r="1.5"/>
+            <line x1="12" y1="12" x2="21" y2="7"/>
+            <line x1="12" y1="12" x2="21" y2="17"/>
+        </g>
+    </symbol>
+
+    <symbol id="copy" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M6 4 H14 A2 2 0 0 1 16 6 V8"/>
+            <path d="M6 4 A2 2 0 0 0 4 6 V14 A2 2 0 0 0 6 16 H8"/>
+            <rect x="8" y="8" width="12" height="12" rx="2" ry="2"/>
+        </g>
+    </symbol>
+
+    <symbol id="paste" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="9" y="5" width="6" height="4"/>
+            <path d="M7 7 A2 2 0 0 0 5 9 V21 A2 2 0 0 0 7 23 H17 A2 2 0 0 0 19 21 V9 A2 2 0 0 0 17 7"/>
+            <path d="M7 7 H9 M15 7 H17"/>
+            <line x1="9" y1="14" x2="15" y2="14"/>
+            <line x1="9" y1="18" x2="15" y2="18"/>
+        </g>
+    </symbol>
+
+    <symbol id="undo" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="9 6 5 10 9 14"/>
+            <path d="M5 10H13C16 10 19 13 19 16"/>
+        </g>
+    </symbol>
+
+    <symbol id="redo" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="15 6 19 10 15 14"/>
+            <path d="M19 10H11C8 10 5 13 5 16"/>
+        </g>
+    </symbol>
+
+    <symbol id="trash" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="10" y1="4" x2="14" y2="4"/>
+            <path d="M4 6 Q12 4 20 6"/>
+            <path d="M4 9 L6 22 H18 L20 9 Z"/>
+            <line x1="9"  y1="12" x2="9"  y2="19"/>
+            <line x1="12" y1="12" x2="12" y2="19"/>
+            <line x1="15" y1="12" x2="15" y2="19"/>
+        </g>
+    </symbol>
+
+    <symbol id="figure" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="6" r="3.5"/>
+            <path d="M7 21 C7 16 9 12 12 12 C15 12 17 16 17 21"/>
+            <line x1="7" y1="21" x2="17" y2="21"/>
+        </g>
+    </symbol>
+
+    <symbol id="figure-wider" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="6" r="5"/>
+            <path d="M4 22 C4 17.5 7.5 13.5 12 13.5 C16.5 13.5 20 17.5 20 22"/>
+            <line x1="4" y1="22" x2="20" y2="22"/>
+        </g>
+    </symbol>
+
+    <symbol id="padlock" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="5" y="10" width="14" height="11" rx="2"/>
+            <path d="M8 10V8a4 4 0 0 1 8 0v2"/>
+        </g>
+    </symbol>
+
+    <symbol id="bubble" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M5 5h14a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-7l-5 3v-3H5a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2z"/>
+        </g>
+    </symbol>
+
+    <symbol id="i-circle" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <circle cx="12" cy="12" r="9"/>
+            <circle cx="12" cy="8" r="1.5" fill="currentColor" stroke="none"/>
+            <line x1="12" y1="13" x2="12" y2="16"/>
+        </g>
+    </symbol>
+
+    <symbol id="plus-circle" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="9"/>
+            <line x1="12" y1="7"  x2="12" y2="17"/>
+            <line x1="7"  y1="12" x2="17" y2="12"/>
+        </g>
+    </symbol>
+
+    <symbol id="x-circle" viewBox="0 0 24 24">
+        <g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <circle cx="12" cy="12" r="9"/>
+            <line x1="8"  y1="8"  x2="16" y2="16"/>
+            <line x1="16" y1="8"  x2="8"  y2="16"/>
+        </g>
+    </symbol>
+</svg>

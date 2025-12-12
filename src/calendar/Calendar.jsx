@@ -117,6 +117,7 @@ const Calendar = () => {
           showMonths={3}
           skipMonths={3}
           onTimeRangeSelected={args => setStartDate(args.day)}
+          selectionDay={startDate}
           events={events}
         />
       </div>

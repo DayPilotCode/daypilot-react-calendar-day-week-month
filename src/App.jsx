@@ -1,10 +1,11 @@
-import React from 'react';
 import './App.css';
 import Calendar from "./calendar/Calendar";
 
-const App = () => {
+function App() {
   return (
-    <Calendar />
+    <>
+      <Calendar />
+    </>
   );
 }
 
